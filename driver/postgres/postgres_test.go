@@ -2,9 +2,9 @@ package postgres
 
 import (
 	"database/sql"
-	"github.com/mattes/migrate/file"
-	"github.com/mattes/migrate/migrate/direction"
-	pipep "github.com/mattes/migrate/pipe"
+	"github.com/schickling/migrate/file"
+	"github.com/schickling/migrate/migrate/direction"
+	pipep "github.com/schickling/migrate/pipe"
 	"testing"
 )
 
